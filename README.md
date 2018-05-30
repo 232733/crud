@@ -17,4 +17,4 @@ Reason of creation:
   This website was created because I wanted to give the users a simplistic way of submitting their name and gender. This information would allow me to see which first names are associated most commonly with which of the wide array of genders.
   
 How the website was made:
-  The crud website was made by using cloud9 as the host of the programming files created. After creating a folder in cloud 9, individual progromming files were then created in that folder as necessary to create a functioning crud website.
+  The crud website was made by using cloud 9 as the host of the programming files created. After creating a folder in cloud 9, individual progromming files were then created in that folder as necessary to create a functioning crud website.
